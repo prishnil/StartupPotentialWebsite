@@ -1,0 +1,256 @@
+.Signup2 {
+    position: relative;
+    width: 375px;
+    height: 812px;
+    background: #FAFAFA;
+}
+
+.Signup2__title {
+    position: absolute;
+    height: 28px;
+    left: 24px;
+    top:110px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;    
+    
+    color: #1E1F20;
+    
+}
+
+.Signup2__intro {
+    position: absolute;
+    left: 24px;
+    top: 140px;
+
+    
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 22px;
+    
+    color: #1E1F20;
+}
+
+.Signup2__first {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 200px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    
+    color: #1E1F20;
+}
+
+.Signup2__firstbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 230px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+.Signup2__last {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 280px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    
+    color: #1E1F20;
+}
+
+
+.Signup2__lastbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 310px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+.Signup2__age {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 360px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    
+    color: #1E1F20;
+}
+
+.Signup2__agebox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 390px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+
+.Signup2__address {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 440px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    
+    color: #1E1F20;
+}
+
+
+.Signup2__city {
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 24px;
+    top: 470px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup2__state {
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 134px;
+    top: 470px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup2__country {
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 244px;
+    top: 470px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup2__gender {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 520px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    
+    color: #1E1F20;
+}
+.Signup2__genderbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 550px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup2__button {
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    left: calc(50% - 350px/2 + 12.03px);
+    top: 620px;
+    padding: 1rem;
+    
+    background: linear-gradient(8.69deg, #5E725A 0%, #CDFFAD 0%, #CDFFAD 100%);
+    border-radius: 12px;
+
+}
+
+.Signup2__text { 
+    position: absolute;
+    width: 350px;
+    height: 18px;
+    left: -10px;
+
+    
+    text-decoration: none;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}

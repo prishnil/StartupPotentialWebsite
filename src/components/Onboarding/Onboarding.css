@@ -1,0 +1,146 @@
+.Onboarding {
+    position: relative;
+    width: 375px;
+    height: 812px;
+    background: #FAFAFA;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: linear-gradient(180deg, #DBFAD5 0%, #B5F3AA 100%);
+}
+
+.Onboarding__top {
+    position: absolute;
+    width: 375px;
+    height: 547px;
+    left: 0px;
+    top: 0px;   
+    background-image: url('./Glowy.jpg');
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+    border-bottom-left-radius: 40px;
+}
+
+.Onboarding__text {
+    position: absolute;
+    left: 5.07%;
+    right: 12%;
+    top: 85%;
+    bottom: 100%;
+}
+
+.Onboarding__slogan {
+    font-weight: 200;
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 1.15px;
+    color: #FFFFFF;
+}
+
+.Onboarding__btns{
+    display: flex;
+}
+
+.Onboarding__btn1 {
+    position: absolute;
+    left: 8.53%;
+    right: 53.33%;
+    top: 80.17%;
+    bottom: 13.67%;
+
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 12px;
+
+}
+
+.Onboarding__login {
+    position: absolute;
+    height: 2px;
+    left: 34.27%;
+    top: calc(50% - 18px/2 - 1px);
+
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+
+    text-align: center;
+    color: #FFFFFF;
+
+    text-decoration: none;
+}
+
+.Onboarding__btn2 {
+    position: absolute;
+    width: 144px;
+    height: 50px;
+    left: 199px;
+    top: 651px;
+
+    position: absolute;
+    left: 53.07%;
+    right: 8.53%;
+    top: 80.17%;
+    bottom: 13.67%;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px #DFFEBC;
+    border-radius: 12px;
+}
+
+.Onboarding__signup {
+    position: absolute;
+    left: 10%;
+    right: 8.53%;
+    top: 35%;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 17px;
+    text-align: center;
+    text-align: center;
+
+    color: #B5F3AA;
+}
+
+.Onboarding__research {
+    display: flex;
+    position: absolute;
+    height: 16px;
+    left: 21.6%;
+    right: 21.07%;
+    top: calc(50% - 16px/2 + 348px);
+
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.Onboarding__btn3 {
+    position: absolute;
+    left: 74%;
+    top: 80%;
+}
+
+.Onboarding__here {
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    color: white;
+}

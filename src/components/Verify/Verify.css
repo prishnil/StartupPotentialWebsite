@@ -1,0 +1,115 @@
+.Verify {
+    position: relative;
+    width: 375px;
+    height: 812px;
+
+    background: #FAFAFA;
+}
+
+.Verify__clap {
+    position: absolute;
+    width: 100px;
+    height: 104px;
+    left: 80px;
+    top: 275px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 24px;
+
+    text-align: center;
+
+    color: #1E1F20;
+}
+
+.Verify__arm {
+    position: absolute;
+    width: 100px;
+    height: 104px;
+    left: 187px;
+    top: 275px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 24px;
+    /* identical to box height, or 24% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+    
+}
+
+.Verify__congrats {
+    position: absolute;
+    height: 24px;
+    left: 37.6%;
+    right: 37.6%;
+    top: 400px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height, or 120% */
+    
+    
+    color: #1E1F20;
+}
+
+.Verify__content {
+
+    position: absolute;
+    left: 6.4%;
+    right: 6.4%;
+    top: 450px;
+    bottom: 69.34%;
+
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+
+    text-align: center;
+
+    color: #1E1F20;
+
+}
+
+.Verify__btn {
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    left: calc(50% - 350px/2 + 12.03px);
+    top: 575px;
+    padding: 1rem;
+    
+    background: linear-gradient(8.69deg, #5E725A 0%, #CDFFAD 0%, #CDFFAD 100%);
+    border-radius: 12px;
+
+}
+
+.Verify__text {
+    position: absolute;
+    width: 350px;
+    height: 18px;
+    left: -10px;
+
+    
+    text-decoration: none;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}

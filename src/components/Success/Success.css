@@ -1,0 +1,169 @@
+.Success {
+    position: relative;
+    width: 375px;
+    height: 812px;
+
+    background: #FAFAFA;
+}
+
+.Success__hands {
+    position: absolute;
+    width: 120px;
+    height: 112px;
+    left: 48px;
+    top: 230px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 117px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.Success__hands1 {
+    position: absolute;
+    width: 120px;
+    height: 112px;
+    left: 190px;
+    top: 230px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 117px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.Success__welcome {
+    position: absolute;
+    height: 24px;
+    left: 18.67%;
+    right: 15.73%;
+    top: 320px;
+    
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    
+    
+    color: #1E1F20;
+}
+
+.Success__sent {
+    position: absolute;
+    left: 8.53%;
+    right: 8.53%;
+    top: 400px;
+    bottom: 49.51%;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+    
+}
+
+.Success__email {
+    position: absolute;
+    left: 8.53%;
+    right: 8.53%;
+    top: 450px;
+    bottom: 49.51%;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+}
+
+.Success__instructions {
+    position: absolute;
+    left: 8.53%;
+    right: 8.53%;
+    top: 500px;
+    bottom: 49.51%;
+    
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+}
+
+.Success__no {
+    position: absolute;
+    width: 302px;
+    height: 38px;
+    left: 37px;
+    top: 677px;
+    
+    text-decoration: none;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 160% */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.Success__btn {
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    left: calc(50% - 350px/2 + 12.03px);
+    top: 725px;
+    padding: 1rem;
+    
+    background: linear-gradient(8.69deg, #5E725A 0%, #CDFFAD 0%, #CDFFAD 100%);
+    border-radius: 12px;
+}
+
+.Success__text {
+    position: absolute;
+    width: 350px;
+    height: 18px;
+    left: -10px;
+
+    
+    text-decoration: none;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}

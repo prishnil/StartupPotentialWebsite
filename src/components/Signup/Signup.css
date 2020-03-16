@@ -1,0 +1,326 @@
+.Signup {
+    position: relative;
+    width: 375px;
+    height: 812px;
+    background: #FAFAFA;
+}
+
+.Signup__title {
+    position: absolute;
+    width: 311px;
+    height: 28px;
+    left: 24px;
+    top: 110px;
+    
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #1E1F20;
+}
+
+.Signup__intro {
+    position: absolute;
+    height: 22px;
+    left: 24px;
+    top: 170px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+
+    color: #1E1F20;
+}
+
+.Signup__email {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 220px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    
+    
+    color: #1E1F20;
+}
+
+.Signup__emailbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 250px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup__countrybox {
+    position: absolute;
+    width: 100px;
+    height: 48px;
+    left: 24px;
+    top: 330px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup__phone {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 300px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    
+    
+    color: #1E1F20;
+}
+
+.Signup__phonebox {
+    position: absolute;
+    width: 202px;
+    height: 48px;
+    left: 144px;
+    top: 330px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup__password {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 380px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    
+    
+    color: #1E1F20;
+}
+
+.Signup__passbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 410px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup__confirm {
+    position: absolute;
+    width: 327px;
+    height: 16px;
+    left: 24px;
+    top: 460px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    
+    
+    color: #1E1F20;
+}
+
+.Signup__passconbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 490px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Signup__button {
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    left: calc(50% - 350px/2 + 12.03px);
+    top: 575px;
+    padding: 1rem;
+    
+    background: linear-gradient(8.69deg, #5E725A 0%, #CDFFAD 0%, #CDFFAD 100%);
+    border-radius: 12px;
+
+}
+
+.Signup__text { 
+    position: absolute;
+    width: 350px;
+    height: 18px;
+    left: -10px;
+
+    
+    text-decoration: none;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}
+
+.Signup__bottom {
+    position: absolute;
+    left: 6.4%;
+    right: 6.4%;
+    top: 78%;
+
+    
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    /* or 169% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+    
+}
+
+.Signup__info{
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    /* or 169% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+}
+
+.Signup__links {
+    display: flex;
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    /* or 169% */
+    
+    text-align: center;
+    
+    color: #1E1F20;
+}
+
+.Signup__link1 {
+    position: absolute;
+    left: 57px;
+    top: 35px;
+    text-decoration: none;
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    
+    text-align: center;
+}
+
+.Signup__link2 {
+    position: absolute;
+    left: 182px;
+    top: 35px;
+    text-decoration: none;
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    
+    text-align: center;
+}
+
+.Signup__and {
+    position: absolute;
+    left: 135px;
+    top: 22px;
+    text-decoration: none;
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+
+    text-align: center;
+    
+    color: #1E1F20;
+}
+
+.Signup__done {
+    position: absolute;
+    height: 22px;
+    left: 23%;
+    top: 700px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    
+    
+    color: #1E1F20;  
+}
+
+.Signup__login {
+    position: absolute;
+    height: 22px;
+    left: 65%;
+    top: 712.5px;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    text-decoration: none;
+}
+

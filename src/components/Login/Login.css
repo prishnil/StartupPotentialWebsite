@@ -1,0 +1,192 @@
+.Login {
+    position: relative;
+    width: 375px;
+    height: 812px;
+    background: #FAFAFA;   
+}
+
+.Login__logo {
+    position: absolute;
+    width: 140px;
+    height: 41px;
+    left: 117px;
+    top: 70px;
+}
+
+.Login__title {
+    position: absolute;
+    height: 18px;
+    left: 20%;
+    top: 15%;
+
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #1E1F20;
+}
+
+.Login__leaf {
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+
+.Login__container {
+    position: absolute;
+    left: 25.32%;
+    right: 5.11%;
+    top: 9.42%;
+    bottom: 56.52%;
+}
+
+.Login__email {
+
+    position: absolute;
+    top: -30%;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    
+    color: #1E1F20;
+}
+
+
+.Login__password {
+   
+    position: absolute;
+    width: 327px;
+    height: 80%;
+    left: 0px;
+    top: 40%;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    color: #1E1F20;
+    
+}
+
+.Login__container {
+    position: absolute;
+    left: 10%;
+    top: 30%;
+
+}
+
+
+.Login__btn {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 0px;
+    top: 165%;
+    background: linear-gradient(8.69deg, #5E725A 0%, #CDFFAD 0%, #CDFFAD 100%);
+    border-radius: 15px;
+    border: none;
+}
+
+.Login__text {
+    position: absolute;
+    left: 42%;
+    top: 25%;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.Login__bottom {
+    position: absolute;
+    height: 16px;
+    width: 375px;
+    left: 15%;
+    top: 450%;
+    display: flex;
+
+/* identical to box height, or 123% */
+
+}
+
+.Login__account {
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 10px;
+    text-align: center;
+    color: #9393AA;
+}
+
+.Login__sign {
+    position: absolute;
+    left: 38%;
+    top: 60%;
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #9393AA;
+}
+
+.Login__pass {
+    position: absolute;
+    height: 16px;
+    top: 235px;
+    left: 35%;
+    
+    font-family: Muli, sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    line-height: 16px;
+    /* identical to box height, or 123% */
+    
+    color: #9393AA;
+}
+
+.Login__emailbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+    
+}
+
+.Login__passbox {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 0px;
+    top: 80px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
